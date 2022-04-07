@@ -1,0 +1,13 @@
+var a = 3;
+
+var b = 2;
+var c = "I am a";
+
+//dont change the code
+
+a = a + 1;
+b = b + 1;
+c = c + " String! ";
+console.log(a)
+
+
